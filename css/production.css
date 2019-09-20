@@ -62,7 +62,7 @@ section,
 	background-color: #dedede;
 	padding: 35px 4% 40px 4%;
 	background: rgb(220, 220, 220);
-	background: linear-gradient(45deg, rgba(220, 220, 220, 1) 0%, rgba(245, 245, 245, 1) 77%);
+	background: url('meetup06.jpeg') linear-gradient(45deg, rgba(220, 220, 220, 1) 0%, rgba(245, 245, 245, 1) 77%);
 }
 
 .section1 h1 {
