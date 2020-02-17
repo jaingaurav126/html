@@ -2,6 +2,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+html{
+  overflow-x: hidden;
+}
+
+/* class for book image */
+.img-manual{
+  width: 100%;
+}
+
 
 body {
   background: #fff;
@@ -259,10 +268,8 @@ h6 {
 }
 
 .paypal_btn {
-  /* text-align: center; */
-  border: none;
+  text-align: center;
   display: block;
-  margin: 0 auto;
 }
 
 .cant_detail {
@@ -474,8 +481,9 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  margin: 18px 18px 0 0;
+  margin: 29px 29px 0 0;
   color: #c22a2a;
+  font-size: 30px;
 }
 
 .mobile-nav-overly {
